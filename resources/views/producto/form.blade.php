@@ -21,7 +21,7 @@
     <label for="Nombre">Nombre</label>
     <input type="text" class="form-control" name="Nombre"
         value="{{ isset($producto->Nombre) ? $producto->Nombre : old('Nombre') }}" id="Nombre">
-
+        <br>
 </div>
 <div class="form-group">
     <label for="Descripcion">Descripcion</label>
