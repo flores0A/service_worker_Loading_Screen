@@ -12,6 +12,7 @@
 
     <!-- Fonts -->
     <link rel="stylesheet" href="{{ asset('css/loading_screen.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
 
 
     <link rel="dns-prefetch" href="//fonts.bunny.net">
